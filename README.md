@@ -1,5 +1,5 @@
 # HandGestures
-Code that recognizes a human hand and, depending on its position, do a certain action.
+Code that recognizes a human hand and, depending on its position, does a certain action.
 
 Features: 
 - action 1: When thumb and index finger are together; space key is pressed
